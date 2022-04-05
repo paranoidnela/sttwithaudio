@@ -8,7 +8,7 @@
 **Installation**
 - git clone the repo
 - chmod +x the scripts
-- add binds to the sxhkdrc, more info [here](https://github.com/baskerville/sxhkd "here")
+- add binds to the sxhkdrc, more info [here](https://github.com/baskerville/sxhkd "here") (transcribe.sh = start dictation, killArecord.sh = end dictation, bypass.sh = disable audio for applications that would support it)
 
 **Thanks to**
 - Mozilla (for deepspeech)
